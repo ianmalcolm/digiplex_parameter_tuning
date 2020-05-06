@@ -1,0 +1,3 @@
+[submodule "chaitjo_graph-convnet-tsp"]
+	path = chaitjo_graph-convnet-tsp
+	url = https://github.com/ianmalcolm/graph-convnet-tsp.git
